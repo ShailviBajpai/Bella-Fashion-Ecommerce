@@ -53,3 +53,9 @@ DATABASE_CONNECTION_LIMIT=10
 $ cd ../../
 $ npm start
 ```
+
+I have used the XAMPP server to run and create my SQL database on phpmyadmin, (you can use any database tool of your choice).
+
+**React front-end** (using Vite) is running on http://localhost:5173/
+
+**Express back-end** API is running on port 3002.
