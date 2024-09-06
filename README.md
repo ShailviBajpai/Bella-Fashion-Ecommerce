@@ -12,7 +12,7 @@ This is a full stack e-commerce site built using Vite React, Tailwind CSS, Expre
 -   Fully responsive design
 -   Lazy loading of images
 -   Announcement bar at the top of the page
--   Static footer containing a set of links
+-   Static footer containing a set of links.
 
 ## Screenshots
 
